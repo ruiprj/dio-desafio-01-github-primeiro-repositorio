@@ -1,0 +1,93 @@
+Pensamento computacional
+
+- 4 pilares
+	- dividir um problema complexo em subproblemas
+	- identificar padrões ou tendências
+	- extrapolar o conceito do problema para uma forma generalista
+	- automatizar -> definir passo a passo a solução do problema
+
+- Habilidades complementares
+	- raciocício lógico
+	- aperfeiçoamento
+
+- Pilares
+	- Decomposição: dividir um problema complexo em problemas menores
+	- Padrões: detecção de similaridades e diferenças; generalizar p/ obter resoluções de problemas diferentes
+	- Abstração: tornar algo geral, mais amplo; generalizar
+	- Algoritmos: conjunto de instruções
+
+
+Introdução à lógica de programação
+	- definição formal: formas de pensamento qvisam a determinar o q é verdadeiro ou não
+	- Organização e planejamento de instruções acertivas em um algoritmo, a fim de viabilizar a implantação de um programa
+
+	- Técnicas de lógica de programação
+		- técnica linear
+		- técnica estruturada
+		- técnica modular
+
+Fundamentos de algoritmos
+	- tipos
+		- numérico
+		- caractere
+		- lógico
+		
+	- instruções primitivas
+	
+	- estruturas condicionais e operadores
+		- se
+		- and, or, not, =, <>
+		- V ou F
+		
+	- estruturas de repetição
+		- para, enquanto
+
+	- vetores e matrizes
+		- arrays
+	
+	- funções
+		- blocos de instruçõs identificados por nomes e parâmetros
+
+	- instruções de entrada e saída
+		- saída programada ou por interrupção
+
+
+Linguagens de programação
+	- como um computador entende um programa?
+		- o código fonte será traduzido/interpretado através do compilador
+		
+	- características de um programa
+		- legibilidade
+		- redigibilidade
+		- confiabilidade
+		- custo
+
+	- análise de código
+		- análise léxica
+		- análise de semântica (significado) -> mais complicado de encontrar
+
+	- paradigmas de programação
+		- possui regras para resolução de um problema e está limitado a essas regras
+		- classificação
+			- orientação a objetos
+			- procedural - chamadas sucessivas e procedimentos separados
+			- funcional - instruções baseadas em funções
+			- estruturado - estrutura de blocos aninhados
+			- computação distrubída - funções executadas de forma independente
+			- lógico - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

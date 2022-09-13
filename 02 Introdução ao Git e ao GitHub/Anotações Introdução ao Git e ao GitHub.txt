@@ -1,0 +1,48 @@
+Git e GitHyb
+
+- Pq?
+	- versionamento
+
+- Comandos básicos
+
+	- Windows
+		- cd
+		- dir
+		- mkdir
+		- del / rmdir
+		
+	- Linux
+		- cd
+		- ls
+		- mkdir
+		- rm -rf
+
+
+- Entendendo como o Git funciona por baixo dos panos
+	- openssl sha1 <arquivo>
+
+	- o git utiliza árvores
+
+
+
+- Ciclo de vida dos arquivos Git
+	- untracked
+	- unmodified
+	- modified
+	- staged
+
+
+- Primeiros comandos com git
+	- git init
+	- git add *
+	- git commit -m "mensagem"
+
+
+- Introdução ao GitHub
+	- git remote add origin https://github.com/ruiprj/xxxxx.git
+	- git push origin master
+
+
+
+
+
